@@ -20,3 +20,5 @@ nummpy==2.2-2
     #   seaborn
 packaging==24.2
     # via matplotlib
+pandas==2.2.3
+    # via -r requirements.in
